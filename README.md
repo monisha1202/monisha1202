@@ -2,9 +2,6 @@
 
 > Learning Through Trials, Coding Through Triumphs
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3E1d2NmOTFhNmk3d2UwaXVlM3A5dnQ2Mzdma2Q3MG43aGdsNWZ3NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zdhgBtpANvh6G6ERNz/giphy.gif"  />
-
-
 - 👩🏻‍🔬 Computational Biologist II
 - 🔭 I’m currently working at UT Southwestern Medical Center
 - 💻 Experienced working with analysing multimodal omics data
@@ -36,15 +33,20 @@
 
 ###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExODVncGZlcXllYmZ0NHFqYmtzN2FyamJhd2cwZ2Vpa2I1aWQ5N3ljMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NCJxEh8p4KQZzI6UIk/giphy.gifQ9Zw/O5YEgIWPd2TlR6NHfg/giphy.gif"  />
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=monisha1202&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monisha1202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+<div align="center">
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/monisha1202/monisha1202/output/snake.svg" alt="Snake animation" />
 
 ###
 
 
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=monisha1202&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=monisha1202&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 

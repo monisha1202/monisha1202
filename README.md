@@ -3,8 +3,8 @@
 > Learning Through Trials, Coding Through Triumphs
 
 - 👩🏻‍🔬 Computational Biologist II
-- 🔭 I’m currently working at UT Southwestern Medical Center
-- 💻 Experienced working with analysing multimodal omics data
+- 🔭 Currently working at UT Southwestern Medical Center
+- 💻 Experienced in analysing multimodal omics data
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/r/276DC3" height="30" alt="r logo"  />

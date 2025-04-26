@@ -30,6 +30,9 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=monisha1202.monisha1202)
 
+![Visits](https://img.shields.io/badge/Visits-28502-blue)
+
+
 ###
 
 <div align="left">
